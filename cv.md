@@ -17,6 +17,9 @@ Strengths: optimism, persistence, love for little things.
 Creative, structured, logical, tactical and strategic thinking.
 I also have such a character trait as coming up with solutions in an extraordinary or creative way.  
 
+## **General information**
+Technical support engineer with extensive experience in a financial company. I have experience in Python, JavaScript, SQL, system administration. And other skills in working with different tools in IT.
+
 ## **Skills:**
 **Programming languages:**  
   
