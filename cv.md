@@ -71,7 +71,18 @@ for x in os.listdir('D:\winScreen'):
 ** Technical Support Enginee **
 System maintenance and repair of computer and printing equipment. Equipment inventory and accounting. Testing hard drives and memory modules. Minor repairs, replacement of faulty PC modules. Preparing the machine for use by the end user. BIOS setup and flashing. Installation of OS, drivers. Installing software. Cloning and creating disk images. Data recovery. Connecting and configuring to a domain network, Working with Active Directory. Consulting and support, as well as elimination of functional errors in the work of the company's software products. Scripting development and system administration.
 
-## **Education**  
+## **Education** 
+### MGPTK Electronics ###
+#### 2002-2005 ####
+#### Information resource management ####
+##### Profession: Software Technician #####
+
+Learning how to install various OS, settings and other application programs on a PC. Setting up a domain structure and network technologies.
+
+Learning programming languages: Pascal, C++, Assembler, Delphi, Visual Basic, SQL.
+
+Self-learning: php, html, css, mysql, javascript, python
+
 Intensive courses - Skillbox, Geekbrains  
 Higher special education - profession: programmer  
 School
