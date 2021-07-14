@@ -7,7 +7,8 @@
 Country: Belarus
 City: Minsk
 E-mail: [sc2ava@gmail.com](https://gmail.com)  
-GitHub: [GitHub:sc2ava](https://github.com/sc2ava)  
+GitHub: [sc2ava](https://github.com/sc2ava)
+Linkedin: [myprofile](https://www.linkedin.com/in/alexander-volchek-o/)  
 
 ## **About me**  
 I want to get good job satisfaction, develop and acquire professional skills, gain new experience and improve my English.  
