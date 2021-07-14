@@ -65,40 +65,11 @@ for x in os.listdir('D:\winScreen'):
         os.remove(x)
 ``` 
 
-*Input and output with abbreviated initials*
-
-```Python
-def ID_Fnames(msg):
-    Caracterslist = "-"
-    input_data = input(msg)
-    if not input_data.isspace() and 1 < len(input_data) and (input_data.isalpha() or any(c in input_data for c in Caracterslist)):
-        return input_data
-    return ID_Fnames("Invalid input. Last Name:")
-
-def ID_Names(msg):
-    Caracterslist = "-"
-    input_data = input(msg)
-    if not input_data.isspace() and 1 < len(input_data) and (input_data.isalpha() or any(c in input_data for c in Caracterslist)):
-        return input_data
-    return ID_Names("Invalid input. First name:")
-
-def ID_Lnames(msg):
-    Caracterslist = "-"
-    input_data = input(msg)
-    if not input_data.isspace() and 1 < len(input_data) and (input_data.isalpha() or any(c in input_data for c in Caracterslist)):
-        return input_data
-    return ID_Lnames("Invalid input. Middle name:")
-
-def ID_FNL():
-    surname = ID_Fnames("Last Name: ")
-    name = ID_Names("First name: ")
-    middlename = ID_Lnames("Middle name: ")
-    return surname.title() + ' ' + name.title()[0] + '.' + middlename.title()[0]+'.'
-
-print(ID_FNL())
-```
-
-## **Work experience**  
+## **Work experience**
+### Republican Unitary Enterprise Information Computing Center of the Ministry of Finance of the Republic of Belarus ###
+#### 2004-2021 ####
+** Technical Support Enginee **
+System maintenance and repair of computer and printing equipment. Equipment inventory and accounting. Testing hard drives and memory modules. Minor repairs, replacement of faulty PC modules. Preparing the machine for use by the end user. BIOS setup and flashing. Installation of OS, drivers. Installing software. Cloning and creating disk images. Data recovery. Connecting and configuring to a domain network, Working with Active Directory. Consulting and support, as well as elimination of functional errors in the work of the company's software products. Scripting development and system administration.
 
 ## **Education**  
 Intensive courses - Skillbox, Geekbrains  
