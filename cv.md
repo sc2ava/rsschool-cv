@@ -1,12 +1,12 @@
 # CV
 
-**First name:**    Alex  
-**Last name:**    Anonymous
+**First name:**    Alexander  
+**Last name:**    Volchek
 
 **Contacts:** 
 Country: Belarus
 City: Minsk
-E-mail: [sc2ava@gmail.com](http://gmail.com)  
+E-mail: [sc2ava@gmail.com](https://gmail.com)  
 GitHub: [GitHub:sc2ava](https://github.com/sc2ava)  
 
 ## **About me**  
