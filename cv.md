@@ -68,7 +68,7 @@ for x in os.listdir('D:\winScreen'):
 ## **Work experience**
 ### Republican Unitary Enterprise Information Computing Center of the Ministry of Finance of the Republic of Belarus ###
 #### 2004-2021 ####
-** Technical Support Enginee **
+**Technical Support Enginee**    
 System maintenance and repair of computer and printing equipment. Equipment inventory and accounting. Testing hard drives and memory modules. Minor repairs, replacement of faulty PC modules. Preparing the machine for use by the end user. BIOS setup and flashing. Installation of OS, drivers. Installing software. Cloning and creating disk images. Data recovery. Connecting and configuring to a domain network, Working with Active Directory. Consulting and support, as well as elimination of functional errors in the work of the company's software products. Scripting development and system administration.
 
 ## **Education** 
