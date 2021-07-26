@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CV Alex V</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="cv">
+    <header class="header">
+    <h1>Resume</h1>
+    </header>
+    <main>
+      <div>
+              
+        <div class="main">
+          <div class="main__image"><img class="images_cv" src="img/my_pic.png" alt="My Pictures"></div>
+            <div class="main__info">
+            <div class="main__names"><h1>Alexander Volchek</h1></div>
+            <div class="main__detail">
+              <h2>Technical Support Enginee</h2>
+            </div>
+            <div class="main__from">
+              <h2>Belarus:Minsk</h2>
+            </div>
+          </div>
+        </div>
+        </div>
+      </section>
+
+
+
+    <section>
+      <h3>About me</h3>
+I want to get good job satisfaction, develop and acquire professional skills, gain new experience and improve my English.
+Material benefits: official salary and bonus, social package, learning opportunity, career growth.
+Strengths: optimism, persistence, love for little things. Creative, structured, logical, tactical and strategic thinking. I also have such a character trait as coming up with solutions in an extraordinary or creative way.
+      
+    </section>
+
+    <section>
+      <h3>Work experience</h3>
+      
+      <div class="experience">
+        <div class="experience__date"><time>2004-2021</time></div>
+        
+        <div class="experience__description">
+          <div class="experience__company">Republican Unitary Enterprise Information Computing Center of the Ministry of Finance Republic of Belarus</div>
+          <div class="experience__name">
+            <ul>Technical Support Enginee</ul>
+          </div>
+          <div class="experience__details">
+            System maintenance and repair of computer and printing equipment. 
+            Equipment inventory and accounting. 
+            Testing hard drives and memory modules. 
+            Minor repairs, replacement of faulty PC modules. 
+            Preparing the machine for use by the end user. 
+            BIOS setup and flashing. 
+            Installation of OS, drivers. 
+            Installing software. 
+            Cloning and creating disk images. 
+            Data recovery. 
+            Connecting and configuring to a domain network, Working with Active Directory. 
+            Consulting and support, as well as elimination of functional errors in the work of the company’s software products. 
+            Scripting development and system administration.
+          </div>
+        </div>
+      </div>
+    </section>
+  </section>
+  
+      <section>
+        <h3>Education</h3>
+        
+        <div class="experience">
+          <div class="experience__date"><time>2002-2005</time></div>
+          
+          <div class="experience__description">
+            <div class="experience__company">MGPTK Electronics</div>
+            <div class="experience__name">Information resource management
+              <ul>Software Technician</ul>
+              </div>
+              <div class="experience__other">Intensive courses</div>
+            <div class="experience__details">
+              <ul>
+                <li>Skillbox</li>
+                <li>Geekbrains</li>
+                <li>Higher special education - profession: programmer
+                  School</li>
+              </ul> 
+              
+            </div>
+          </div>
+       </div>
+      </section>
+    
+      <section>
+      <h3>Skills</h3>
+      <ul>
+        <li>php</li>
+        <li>html</li>
+        <li>css</li>
+        <li>mysql</li>
+        <li>javascript</li>
+        <li>python</li>
+        <li>pascal</li>
+        <li>c++</li>
+        <li>assembler</li>
+        <li>delphir</li>
+        <li>visual basic</li>
+      </ul>
+    </section>
+    
+    <section>
+      <h3>Code</h3>
+      <ul>
+        <li>Saving wallpaper Windows Spotlight</li>
+      </ul>
+
+            <pre>
+            import os
+            import random
+            import shutil
+
+            #Copy all files and insert new catalog
+            scr = r'%LOCALAPPDATA%\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\Assets'
+            dst = r'D:\winScreen'
+            #ignore check information
+            shutil.copytree(scr,dst,dirs_exist_ok=True)
+
+            #rename and type .jpg
+            os.chdir(r'D:\winScreen')
+            z = os.listdir('D:\winScreen')
+            for x in z:
+                os.rename(x, str(random.random() * 100) + '.jpg')
+
+            #sort for size and delete another files 
+            from PIL import Image
+            for x in os.listdir('D:\winScreen'):
+                if(Image.open(x).size)!=(1920,1080):
+                    os.remove(x)</pre>
+    </section>
+    
+    <section>
+        <h3>Language skills</h3>
+        <div>English at level A2. Basic language practice: reading technical documentation and searching for technical information in any available form.</div>
+    </section>
+    </div>
+  </main>
+  <footer class="cv">
+<h3>Contacts</h3>
+   
+<div class="contacts">
+  <ul>
+      <div class="contact">
+      <div class="contact__type">
+      <li>Github:</li>
+    </div>
+     
+     <div class="contact__link">
+       <a href="https://github.com/sc2ava">github.com/sc2ava</a>
+     </div>
+   </div>
+      
+   <div class="contact">
+     <div class="contact__type">
+       <li>E-mail:</li>
+     </div>
+     
+     <div class="contact__link">
+       <a href="mailto:sc2ava@gmail.com">sc2ava@gmail.com</a>
+     </div>
+   </div>
+   
+   <div class="contact">
+     <div class="contact__type">
+       <li>Linkedin:</li>
+     </div>
+     
+     <div class="contact__link">
+       <a href="https://www.linkedin.com/in/alexander-volchek-o/">Linkedin/alexander-volchek-o</a>
+     </div>
+   </div>
+  </ul>
+ </div>
+ <a href="https://rs.school/js/"><img class="images_cv" src="https://rs.school/images/rs_school_js.svg" alt="go rsscool"></a>
+ <p><time>2021</time></p>
+    </footer>
+
+</body>
+</html>
+
+
+
+      
+  
+   
+    
+     
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
